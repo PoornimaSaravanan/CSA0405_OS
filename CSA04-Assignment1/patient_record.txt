@@ -1,0 +1,15 @@
+SMART HOSPITAL - PATIENT RECORD
+
+Patient ID: P1001
+Patient Name: Arun Kumar
+Age: 45
+Ward: Cardiology
+Heart Rate: 82 BPM
+Blood Pressure: 120/80 mmHg
+Body Temperature: 37 C
+Patient Status: Stable
+
+System Call Demonstration:
+File opened successfully.
+Patient data read using read().
+Patient data displayed using write().
